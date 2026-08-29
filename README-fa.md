@@ -1,12 +1,12 @@
 <div align="center">
     <p>
         <a href="README-fa.md">
-            <small></small>
-            <img src='img/ir.svg' alt='persian' style='width: 20px;height: 15px;border-radius: 3px;' />
+            <img src='img/ir.svg' alt='persian' style='width: 40px;height: 40px;border-radius: 3px;' />
         </a>
         | 
-       <img src='img/en.svg' alt='English' style='width: 20px;height: 15px;border-radius: 3px;' />
-        <small></small>
+        <a href="README.md">
+       <img src='img/en.svg' alt='English' style='width: 40px;height: 40px;border-radius: 3px;' />
+        </a>
     </p>
 </div>
 
