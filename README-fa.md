@@ -4,7 +4,7 @@
             <img src='img/ir.svg' alt='persian' style='width: 40px;height: 40px;border-radius: 3px;' />
         </a>
         | 
-        <a href="README.md">
+        <a href="https://github.com/netblag/lexibook">
        <img src='img/en.svg' alt='English' style='width: 40px;height: 40px;border-radius: 3px;' />
         </a>
     </p>
