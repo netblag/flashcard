@@ -2,10 +2,10 @@
     <p>
         <a href="README-fa.md">
             <small></small>
-            <img src='flags/ir.svg' alt='persian' style='width: 20px;height: 15px;border-radius: 3px;' />
+            <img src='img/ir.svg' alt='persian' style='width: 20px;height: 15px;border-radius: 3px;' />
         </a>
         | 
-       <img src='flags/en.svg' alt='English' style='width: 20px;height: 15px;border-radius: 3px;' />
+       <img src='img/en.svg' alt='English' style='width: 20px;height: 15px;border-radius: 3px;' />
         <small></small>
     </p>
 </div>
@@ -13,7 +13,7 @@
 # Lexi Book
 
 <p align="center">
-  <img src="lexibook.png" alt="Lexi Book" width="120">
+  <img src="img/lexibook.png" alt="Lexi Book" width="120">
 </p>
 
 <p align="center">
